@@ -1,0 +1,3 @@
+*.config.js
+.eslintrc.cjs
+main.tsx
